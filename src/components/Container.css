@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  background-color: #f2cdac;
+}
+
+.Container {
+  border: 5px solid black;
+  width: 258px;
+  border-radius: 10px;
+}
